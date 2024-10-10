@@ -1,1 +1,1 @@
-# Minesweeper-in-C-
+# Minesweeper in C++
